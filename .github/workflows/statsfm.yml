@@ -18,7 +18,7 @@ jobs:
         uses: teraha-dev/statsfm-to-markdown@v1.0.0
         with:
           statsfm_username: 'arxivtera'
-          display_limit: 25
+          display_limit: 10
           
 
       - name: Commit and push changes
