@@ -1,10 +1,8 @@
 name: Update stats.fm Top Albums
 
 on:
-  # 매일 자정 UTC에 자동으로 실행되도록 설정 (원하는 시간으로 변경 가능)
   schedule:
     - cron: '0 0 * * *'
-  # GitHub Actions 탭에서 수동으로 실행 가능하도록 설정
   workflow_dispatch:
 
 jobs:
@@ -20,6 +18,8 @@ jobs:
         uses: teraha-dev/statsfm-to-markdown@v1.0.0
         with:
           statsfm_username: 'arxivtera'
+          display_limit: 25
+          
 
       - name: Commit and push changes
         run: |
