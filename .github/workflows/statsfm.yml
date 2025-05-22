@@ -17,7 +17,7 @@ jobs:
       - name: Update stats.fm top albums
         uses: teraha-dev/statsfm-to-markdown@v1.0.0
         with:
-          statsfm_username: 'arxivtera'
+          statsfm_username: 'teraha'
           display_limit: 10
           
 
