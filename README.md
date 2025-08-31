@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm [Tera Ha](https://teraha.com)!
-
+ 
 ## Featured Project: statsfm-to-markdown
 
 I developed **[statsfm-to-markdown](https://github.com/teraha-dev/statsfm-to-markdown)**, a GitHub Action that dynamically updates your profile README with your most listened-to albums from stats.fm (formerly Spotistats). It provides a visually engaging way to showcase musical preferences, featuring:
