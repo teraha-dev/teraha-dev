@@ -21,6 +21,7 @@ jobs:
           display_limit: 12
           items_per_row: 6
           theme: light
+          time_range: lifetime
           display_mode: image
 
       - name: Commit and push changes
