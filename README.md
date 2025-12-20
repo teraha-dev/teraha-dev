@@ -5,7 +5,7 @@
 I developed **[statsfm-to-markdown](https://github.com/teraha-dev/statsfm-to-markdown)**, a GitHub Action that dynamically updates your profile README with your most listened-to albums from stats.fm (formerly Spotistats). It provides a visually engaging way to showcase musical preferences, featuring:
 
 * Automated fetching and embedding of top album art.
-* Configurable time ranges (`weeks`, `months`, `lifetime`) and display limits.
+* Configurable time ranges (`week`, `weeks`, `months`, `lifetime`) and display limits.
 * Optional tooltips displaying rank and playtime.
 
 Integrate it into your own profile or learn more at the [project repository](https://github.com/teraha-dev/statsfm-to-markdown).
