@@ -10,7 +10,7 @@ I developed **[statsfm-to-markdown](https://github.com/teraha-dev/statsfm-to-mar
 
 Integrate it into your own profile or learn more at the [project repository](https://github.com/teraha-dev/statsfm-to-markdown).
 
-<p align="center"><strong>Monthly Rotation</strong></p> 
+<p align="center"><strong>Weekly Rotation</strong></p> 
 
 <!-- STATSFM START -->
 
